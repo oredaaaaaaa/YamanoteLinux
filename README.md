@@ -1,3 +1,4 @@
 # YamanoteLinux
 Yamanote専用に開発されたArchLinuxベースの一から構築したディストーションです。
+
 ビルドツールにはAlterLinux用のAlterISO3.1が採用されています。
