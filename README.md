@@ -1,2 +1,3 @@
 # YamanoteLinux
-Yamanote_F2L専用Arch系ディストーション
+Yamanote専用に開発されたArchLinuxベースの一から構築したディストーションです。
+ビルドツールにはAlterLinux用のAlterISO3.1が採用されています。
